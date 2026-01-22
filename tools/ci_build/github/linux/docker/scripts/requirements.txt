@@ -4,7 +4,7 @@ numpy==2.0.0; python_version >= '3.9'
 mypy
 pytest
 setuptools==69.0.3
-wheel==0.42.0
+wheel==0.46.2
 onnx==1.16.1
 argparse
 sympy==1.12
