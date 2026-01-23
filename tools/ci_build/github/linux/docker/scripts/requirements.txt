@@ -9,5 +9,5 @@ onnx==1.16.1
 argparse
 sympy==1.12
 flatbuffers
-protobuf==4.21.12
+protobuf==7.34.0rc1
 packaging
