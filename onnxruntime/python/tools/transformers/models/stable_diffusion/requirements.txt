@@ -6,7 +6,7 @@ onnx==1.16.0
 coloredlogs
 packaging
 # Use newer version of protobuf might cause crash
-protobuf==3.20.3
+protobuf==5.29.6
 psutil
 sympy
 controlnet_aux==0.0.7
